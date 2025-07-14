@@ -57,6 +57,8 @@ Happy coding & enjoy building dynamic web apps! 🚀✨
 - Client Interface
 <img width="1920" height="2938" alt="image" src="https://github.com/user-attachments/assets/c47bc538-c43b-4a32-bc5f-6d3b63c9fa3d" />
 
+<---------------------------------------------------------------------------------------------------------------------------------------/>
+
 <img width="1920" height="2947" alt="image" src="https://github.com/user-attachments/assets/19079ce9-e3e0-41af-b9f0-1a2c7f8c9537" />
 
  - Admin Interface
