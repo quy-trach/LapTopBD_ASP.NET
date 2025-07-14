@@ -55,6 +55,6 @@ Not for commercial use.
 Happy coding & enjoy building dynamic web apps! 🚀✨
 ## 🖼️ Screenshot
 
-![LaptopBD Homepage](<img width="1920" height="2938" alt="image" src="https://github.com/user-attachments/assets/701decc1-0cea-4f56-95cc-a2f1f9247828" />
-)
+<img width="1920" height="2938" alt="image" src="https://github.com/user-attachments/assets/c47bc538-c43b-4a32-bc5f-6d3b63c9fa3d" />
+
 
