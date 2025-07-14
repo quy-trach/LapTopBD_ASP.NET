@@ -1,4 +1,4 @@
-#asp-net-core-mvc  LaptopBD - Laptop Store (ASP.NET Core MVC)
+# asp-net-core-mvc  LaptopBD - Laptop Store (ASP.NET Core MVC)
 This project, "LaptopBD," is an ASP.NET Core MVC application designed to simulate a laptop store. It emphasizes the use of AJAX with JSON for a dynamic user experience and provides all fundamental CRUD (Create, Read, Update, Delete) operations. The project's architecture is structured for clarity, maintainability, and future extensibility, making it an excellent educational resource.
 
 # Key Features
