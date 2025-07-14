@@ -23,7 +23,7 @@ The project showcases how to build a CRUD-based web system with modern **AJAX** 
 For testing and demonstration purposes, you can use:
 
 - **Username:** `admin`  
-- **Password:** `12345` or `123`
+- **Password:** `12345` 
 
 ---
 
